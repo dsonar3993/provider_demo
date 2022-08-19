@@ -1,16 +1,11 @@
 # providerdemo
 
-A new Flutter project.
+This is a sample app in Flutter for State Management using Providers Library.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Flutter application to demonstrate implementation of Providers Library for State Management.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+There are two main libraries used in this project:
+1. http -> For making http GET requests to fetch data from Server.
+2. providers -> For State Management.
